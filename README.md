@@ -66,5 +66,5 @@ This system will allow seamless control of an LED light through a mobile app, de
 
 # OUTPUT OF TASK
 
-
+https://github.com/user-attachments/assets/aa39315b-faba-4cf4-ac1b-14c2e61a4acd
 
